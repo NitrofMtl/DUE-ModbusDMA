@@ -1,0 +1,24 @@
+= Credits and Attribution
+
+This project is a fork of the official 
+https://github.com/arduino-libraries/ArduinoModbus[ArduinoModbus] library 
+by the Arduino team.
+
+== Original Work
+- Arduino Libraries Team  
+- Repository: https://github.com/arduino-libraries/ArduinoModbus  
+
+== Modifications
+- Adapted for Arduino Due RS485 with DMA support.  
+- Integration with https://github.com/NitrofMtl/DUERS485DMA[DUERS485DMA].  
+- Maintainer: @NitrofMtl  
+
+== Notes
+- This fork maintains compatibility with the official ArduinoModbus API, 
+  but requires explicit instantiation of `ModbusRTUServerClass` and `ModbusRTUClientClass`.
+- Issues and pull requests for this fork should be submitted to:  
+  https://github.com/NitrofMtl/ArduinoModbus-DUE-DMA
+
+== License
+This project follows the same license as the original ArduinoModbus library 
+(GNU Lesser General Public License v2.1).  
