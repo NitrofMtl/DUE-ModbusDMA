@@ -3,7 +3,7 @@
 
 
 
-= ArduinoModbus-DUE-DMA
+= DUE-ModbusDMA
 :toc:
 :icons: font
 

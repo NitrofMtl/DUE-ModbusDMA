@@ -17,10 +17,8 @@
   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#ifndef _ARDUINO_MODBUS_H_INCLUDED
-#define _ARDUINO_MODBUS_H_INCLUDED
-
-#define TEST_VAR
+#ifndef _DUEModbusDMA_H_INCLUDED
+#define _DUEModbusDMA_H_INCLUDED
 
 #include "ModbusRTUClient-DUE-DMA.h"
 #include "ModbusRTUServer-DUE-DMA.h"
