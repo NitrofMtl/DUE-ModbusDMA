@@ -15,8 +15,8 @@
 #include <WiFiNINA.h> // for MKR WiFi 1010
 // #include <WiFi101.h> // for MKR1000
 
-#include <ArduinoRS485.h> // ArduinoModbus depends on the ArduinoRS485 library
-#include <ArduinoModbus.h>
+//#include <ArduinoRS485.h> // ArduinoModbus depends on the ArduinoRS485 library
+#include <DUE-ModbusDMA.h>
 
 #include "arduino_secrets.h"
 ///////please enter your sensitive data in the Secret tab/arduino_secrets.h

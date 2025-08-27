@@ -24,7 +24,7 @@
 */
 
 #include <DUERS485DMA.h> // ArduinoModbus-DUE-DMA depends on the DUERS485DMA library
-#include <ArduinoModbus-DUE-DMA.h>
+#include <DUE-ModbusDMA.h>
 
 #define RS485 RS485_SERIAL2
 

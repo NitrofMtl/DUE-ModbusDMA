@@ -15,8 +15,8 @@
 #include <SPI.h>
 #include <Ethernet.h>
 
-#include <ArduinoRS485.h> // ArduinoModbus depends on the ArduinoRS485 library
-#include <ArduinoModbus.h>
+//#include <ArduinoRS485.h> // ArduinoModbus depends on the ArduinoRS485 library
+#include <DUE-ModbusDMA.h>
 
 // Enter a MAC address for your controller below.
 // Newer Ethernet shields have a MAC address printed on a sticker on the shield

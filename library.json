@@ -1,6 +1,6 @@
 {
   "name": "DUE-ModbusDMA",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "Fork of ArduinoModbus adapted for Arduino Due RS485 with DMA support, using DUERS485DMA.",
   "keywords": [
     "modbus",
